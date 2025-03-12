@@ -61,3 +61,6 @@ public class StudentGrades {
     }
     
 }
+
+// develop a program that allows a teacher to enter students grades and compute their average, higherest and lowest scores.
+// you can use array and arraylist to store the student data
